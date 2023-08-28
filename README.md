@@ -1,3 +1,19 @@
+# Cotización de criptomonedas en React Native
+
+Una app nativa sobre las cotizaciones de las monedas en criptos, consta de dos inputs, uno de moneda local y otro input de la cripto que deseamos ver. Esta app realizada con la API de Crypto Compare, muestra
+ - El precio actual
+ - El precio más alto del día
+ - EL precio más bajo del día
+ - La variación que tuvo porcentualmente en las últimas 24 horas
+ - La última actualización del precio
+
+<img src="./img/811shots_so.jpg"></img>
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
